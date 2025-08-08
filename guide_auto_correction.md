@@ -16,7 +16,7 @@
 3.  * **Включи** режим `DeepThink`. 
     * **Выключи** режим `Search`.
 
-4. Приложи [файл](https://raw.githubusercontent.com/zalig/redaktura/refs/heads/main/correctura-v0.1.md):
+4. Скачай [файл](https://raw.githubusercontent.com/zalig/redaktura/refs/heads/main/correctura-v0.1.md) (правой кнопкой - сохранить по ссылке как) и приложи его в DeepSeek.
     * если не прикладывается, выполни пункт 3, не забывай!
     * приложи именно файл, а не ссылку на него.
 
