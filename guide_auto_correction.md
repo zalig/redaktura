@@ -48,8 +48,9 @@
 
 ## Что под капотом
 Всё, что делает нейросеть для корректуры описано в файле:
-* [ссылка для скачивания](https://raw.githubusercontent.com/zalig/redaktura/refs/heads/main/correctura-v0.1.md),
 * [ссылка для просмотра человеком](https://github.com/zalig/redaktura/blob/main/correctura-v0.1.md).
+* [ссылка для скачивания, хотя уже была выше](https://raw.githubusercontent.com/zalig/redaktura/refs/heads/main/correctura-v0.1.md),
+
 
 Формат файл называется `Markdown`:
 * Обеспечивает визуальное форматирования для просмотра человеком;
