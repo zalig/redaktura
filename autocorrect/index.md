@@ -18,7 +18,7 @@
 3.  * **Включи** режим `DeepThink`. 
     * **Выключи** режим `Search`.
 
-4. Скачай [файл](https://raw.githubusercontent.com/zalig/redaktura/refs/heads/main/autocorrect/correctura-v0.1.md) (правой кнопкой - сохранить по ссылке как) и приложи его в DeepSeek.
+4. Скачай [файл](https://raw.githubusercontent.com/zalig/redaktura/refs/heads/main/autocorrect/ai/index.md) (правой кнопкой - сохранить по ссылке как) и приложи его в DeepSeek.
     * если не прикладывается, выполни пункт 3, не забывай!
     * приложи именно файл, а не ссылку на него.
 
@@ -48,8 +48,8 @@
 
 ## Что под капотом
 Всё, что делает нейросеть для корректуры описано в файле:
-* [ссылка для просмотра человеком](https://github.com/zalig/redaktura/blob/main/autocorrect/correctura-v0.1.md).
-* [ссылка для скачивания, хотя уже была выше](https://raw.githubusercontent.com/zalig/redaktura/refs/heads/main/autocorrect/correctura-v0.1.md),
+* [ссылка для просмотра человеком](https://github.com/zalig/redaktura/blob/main/autocorrect/ai/index.md).
+* [ссылка для скачивания, хотя уже была выше](https://raw.githubusercontent.com/zalig/redaktura/refs/heads/main/autocorrect/ai/index.md),
 
 
 Формат файла называется `Markdown`:
